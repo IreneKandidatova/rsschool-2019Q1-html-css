@@ -1,2 +1,2 @@
-# rsschool-2019Q1-html-css
-таски с codeacademy
+Irene Kandidatova
+HTML CSS Basics:https://www.codecademy.com/users/IreneK31/achievements
